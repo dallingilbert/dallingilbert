@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **d.jamesgilbert4@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/dallin-gilbert](www.linkedin.com/in/dallin-gilbert)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/dallin-gilbert" target="blank">LinkedIn</a>
 
 - ⚡ Fun fact **I love how Software Engineering is based around a continued growth mindset!**
 
