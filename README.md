@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dallin Gilbert</h1>
 <h3 align="center">A passionate frontend web developer from Southern California!</h3>
 
-- 🔭 I’m currently working on [Subitt Business Scraping](https://github.com/dallingilbert/business-data-scraper)
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **Go & Playwright**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **any web development projects**
 
